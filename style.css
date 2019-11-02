@@ -5,6 +5,11 @@
 }
 
 
+.text-secondary{
+    text-align: center;
+}
+
+
 body {
     background-color: rgb(238, 235, 235);
 }
