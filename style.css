@@ -5,8 +5,14 @@
 }
 
 
-.text-secondary{
+a{
     text-align: center;
+    text-decoration: none;
+    color: gainsboro;
+    display:block;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    padding:10px;
 }
 
 
@@ -20,4 +26,6 @@ body {
     min-height: 10em;  
 }
 
-
+h4{
+    text-align: center;
+}
